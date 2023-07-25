@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AK-0409
-- 👀 I’m interested in cyber Security
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email anikeshkumar0261@gmail.com
