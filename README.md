@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AK-0409
+- 👋 Hi, I’m @AnikeshKumar
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email anikeshkumar0261@gmail.com
