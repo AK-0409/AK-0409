@@ -11,18 +11,18 @@ You can click the Preview link to take a look at your changes.
 🚀💻 Technologies & Tools
 
 
-![Java](https://img.shields.io/badge/-Java-red)
-![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![C](https://img.shields.io/badge/-C-green)
-![Windows](https://img.shields.io/badge/-Windows-blue)
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![Maven](https://img.shields.io/badge/-Maven-orange)
-![Apache](https://img.shields.io/badge/-Apache-red)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
-![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-green)
-![Hibernate](https://img.shields.io/badge/-Hibernate-lightgrey)
+![Java](https://img.shields.io/badge/-Java-red) &nbsp;
+![Python](https://img.shields.io/badge/-Python-blue) &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) &nbsp;
+![C](https://img.shields.io/badge/-C-green) &nbsp;
+![Windows](https://img.shields.io/badge/-Windows-blue) &nbsp;
+![HTML](https://img.shields.io/badge/-HTML-orange) &nbsp;
+![CSS](https://img.shields.io/badge/-CSS-blue) &nbsp;
+![Maven](https://img.shields.io/badge/-Maven-orange) &nbsp;
+![Apache](https://img.shields.io/badge/-Apache-red) &nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green) &nbsp;
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-green) &nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-lightgrey) &nbsp;
 
 
  
