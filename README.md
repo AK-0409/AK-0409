@@ -9,8 +9,11 @@ AK-0409/AK-0409 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 🚀💻 Technologies & Tools
-Java Python Javascript C Windows
+![Java](https://img.shields.io/badge/-Java-red)
+![Python](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![C](https://img.shields.io/badge/-C-green)
+![Windows](https://img.shields.io/badge/-Windows-blue)
 
-Spring Apache Maven NPM Git MySQL Docker GitHub
 
  
